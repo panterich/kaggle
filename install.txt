@@ -1,0 +1,17 @@
+python :
+
+интепритатор: https://www.python.org/downloads/release/python-343/
+
+IDE : https://www.jetbrains.com/pycharm/download/download_thanks.jsp?edition=comm&os=win
+
+
+R: 
+
+интепритатор: https://cran.r-project.org/bin/windows/base/
+
+IDE: https://www.rstudio.com/products/rstudio/download/
+
+
+GitHub:
+
+https://desktop.github.com/
